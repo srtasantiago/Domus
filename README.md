@@ -10,3 +10,10 @@ pode atribuir as tarefas ao usuário, definindo quem vai realizar cada tarefas;
 consultas as tarefas por dia ou visualiza todas de uma vez;
 adicionar lembretes de tarefas e horários ;
 cada usuário pode adicionar sua agenda e compartilhar para que todos possam ver;
+
+
+# Requisitos :
+
+# Principio do privilégio mínimo:
+
+# Regras de negócio:
