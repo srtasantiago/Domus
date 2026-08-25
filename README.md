@@ -1,19 +1,33 @@
 # Domus
 
-# Uma aplicação para ajudar a manter a casa e a rotina organizadas, tarefas feitas é garantia de casa e vida organizada.
-
-# Principais funcionalidades:
-
-Uma aplicação para cadastrar as tarefas que devem ser feitas em casa;
-compartilha a tarefa entre os membros;
-pode atribuir as tarefas ao usuário, definindo quem vai realizar cada tarefas;
-consultas as tarefas por dia ou visualiza todas de uma vez;
-adicionar lembretes de tarefas e horários ;
-cada usuário pode adicionar sua agenda e compartilhar para que todos possam ver;
+Uma aplicação colaborativa para manter a casa e a rotina em perfeita harmonia. Tarefas divididas e executadas garantem um lar funcional e uma convivência equilibrada.
 
 
-# Requisitos :
+## Sobre o Projeto
 
-# Principio do privilégio mínimo:
+O Domus é uma solução voltada para residências, repúblicas e famílias gerenciarem tarefas domésticas de forma compartilhada e transparente. A plataforma integra a gestão de deveres da casa com a rotina individual de cada morador, facilitando a atribuição de responsabilidades e o planejamento diário.
 
-# Regras de negócio:
+
+
+# Funcionalidades Principais
+
+- Gestão de Tarefas: Cadastro de atividades domésticas com detalhes, prazos e categorias.
+- Divisão e Atribuição: Compartilhamento de tarefas entre os membros da casa com definição clara de responsáveis.
+- Visualização Flexível: Filtro para consultar tarefas do dia atual ou visão geral de todas as pendências da residência.
+- Lembretes e Notificações: Avisos automáticos de horários para evitar esquecimentos e atrasos.
+- Agenda Integrada: Compartilhamento de horários e compromissos para alinhamento da disponibilidade dos moradores.
+
+
+
+# Segurança: Princípio do Privilégio Mínimo (PoLP)
+
+O sistema adota segurança e privacidade por padrão
+
+- Isolamento de Residências: Moradores têm acesso restrito exclusivamente aos dados e tarefas vinculados à sua própria residência (house_id), impedindo acesso a informações de outros lares.
+- Privacidade da Agenda Pessoal: Ao compartilhar compromissos, os membros visualizam apenas blocos de disponibilidade (status Livre/Ocupado), preservando a descrição detalhada e o sigilo de eventos particulares.
+- Permissões Granulares: Cada usuário tem autorização para interagir e concluir suas próprias tarefas atribuídas, enquanto edições estruturais e exclusões são restritas aos criadores ou administradores.
+
+# Regras de negócio
+# Arquitetura de sistemas
+# Server less
+# Custos
