@@ -29,7 +29,8 @@ O sistema adota segurança e privacidade por padrão
 - Privacidade da Agenda Pessoal: Ao compartilhar compromissos, os membros visualizam apenas blocos de disponibilidade (status Livre/Ocupado), preservando a descrição detalhada e o sigilo de eventos particulares.
 - Permissões Granulares: Cada usuário tem autorização para interagir e concluir suas próprias tarefas atribuídas, enquanto edições estruturais e exclusões são restritas aos criadores ou administradores.
 
-#REQUISITOS:
+# REQUISITOS: 
+https://docs.google.com/document/d/1qwaCeihKyFpgJl_dzDiJJ_IwqoaZw3X5p2jj03T5hjw/edit?usp=sharing
 
 # Regras de negócio
 - Usuário Titular (Account Owner):
